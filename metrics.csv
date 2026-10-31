@@ -1,0 +1,5 @@
+,RMSE,MAE,MAPE
+"SARIMA(0, 1, 2)x(1, 1, 1, 7)",188.91,103.01,2.63
+Seasonal Naive (baseline),224.12,154.84,4.02
+Holt-Winters,240.17,158.21,4.02
+"ARIMA(2,1,2)",373.93,326.18,8.51
